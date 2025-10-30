@@ -85,7 +85,7 @@ public class EmployeeHelpBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "8079512753:AAG-YtqI2pabqeqG17zVFebDtBcwrMhd-RQ";
+        return "";
     }
 
     @Override
