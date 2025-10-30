@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: deliveryHelpBot
+  data:
+    mongodb:
+      database: helpbot
+      uri: mongodb://localhost:27017
+
